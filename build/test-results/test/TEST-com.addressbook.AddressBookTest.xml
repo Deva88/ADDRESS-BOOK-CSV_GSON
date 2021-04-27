@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.addressbook.AddressBookTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-27T09:22:10" hostname="SHRI" time="0.763">
+  <properties/>
+  <testcase name="givenCSVFile_WhenWrite_ShouldReturnTrue()" classname="com.addressbook.AddressBookTest" time="0.252"/>
+  <testcase name="whenPersonContactDetailsAddedToFil_ShouldReturn_True()" classname="com.addressbook.AddressBookTest" time="0.244"/>
+  <testcase name="givenCSV_FileWhenRead_ShouldReturnTrue()" classname="com.addressbook.AddressBookTest" time="0.195"/>
+  <testcase name="PersonContactDetailsAddedToFile_WhenRead_ShouldReturn_True()" classname="com.addressbook.AddressBookTest" time="0.062"/>
+  <system-out><![CDATA[
+Contacts added Successfully
+[Ljava.lang.String;@915cdd9
+[Ljava.lang.String;@72d613ae
+
+Contacts added Successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
