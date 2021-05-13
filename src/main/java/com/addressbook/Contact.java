@@ -1,5 +1,4 @@
 package com.addressbook;
-
 public class Contact {
 
     public final String firstName;
